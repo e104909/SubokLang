@@ -10,3 +10,5 @@ moment = force * distance
 
 # Display result
 print("The moment (torque) is:", moment, "Newton-meters (Nm)")
+
+#changes
